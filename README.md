@@ -29,7 +29,7 @@ git clone https://github.com/your-username/drum-kit-website.git
 
 ## Preview
 
-![screenshot](Screenshot 2024-02-15 105452.png)
+![screenshot](Screenshot%202024-02-15%20105452.png)
 
 
 
